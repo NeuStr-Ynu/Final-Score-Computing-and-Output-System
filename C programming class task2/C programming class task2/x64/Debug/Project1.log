@@ -1,0 +1,9 @@
+﻿  input_output.cpp
+E:\带二上\C programming class\task2\Project1\Project1\input_output.cpp(34,11): warning C4129: “|”: 不可识别的字符转义序列
+E:\带二上\C programming class\task2\Project1\Project1\input_output.cpp(40,11): warning C4129: “|”: 不可识别的字符转义序列
+E:\带二上\C programming class\task2\Project1\Project1\input_output.cpp(46,11): warning C4129: “|”: 不可识别的字符转义序列
+E:\带二上\C programming class\task2\Project1\Project1\input_output.cpp(52,11): warning C4129: “|”: 不可识别的字符转义序列
+E:\带二上\C programming class\task2\Project1\Project1\input_output.cpp(58,11): warning C4129: “|”: 不可识别的字符转义序列
+  main.cpp
+  正在生成代码...
+  Project1.vcxproj -> E:\带二上\C programming class\task2\Project1\x64\Debug\Project1.exe
